@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Checklist base container -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M34,26 C30.686,26 28,28.686 28,32 L28,76 C28,79.314 30.686,82 34,82 L74,82 C77.314,82 80,79.314 80,76 L80,32 C80,28.686 77.314,26 74,26 L34,26 Z M34,32 L74,32 L74,76 L34,76 L34,32 Z" />
+    <!-- Checkmark 1 -->
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M37,42 L42,47 L51,38 L54,41 L42,53 L34,45 Z" />
+    <!-- Line 1 -->
+    <path
+        android:fillColor="#CBD5E1"
+        android:pathData="M57,43 L71,43 C72.1,43 73,43.9 73,45 C73,46.1 72.1,47 71,47 L57,47 C55.9,47 55,46.1 55,45 C55,43.9 55.9,43 57,43 Z" />
+    <!-- Checkmark 2 -->
+    <path
+        android:fillColor="#22C55E"
+        android:pathData="M37,60 L42,65 L51,56 L54,59 L42,71 L34,63 Z" />
+    <!-- Line 2 -->
+    <path
+        android:fillColor="#CBD5E1"
+        android:pathData="M57,61 L71,61 C72.1,61 73,61.9 73,63 C73,64.1 72.1,65 71,65 L57,65 C55.9,65 55,64.1 55,63 C55,61.9 55.9,61 57,61 Z" />
+</vector>

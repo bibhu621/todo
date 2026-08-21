@@ -1,0 +1,6 @@
+{
+  "name": "Todo",
+  "description": "A simple, clean offline Todo app with local storage to manage daily tasks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
